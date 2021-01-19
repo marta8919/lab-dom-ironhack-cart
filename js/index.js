@@ -69,6 +69,8 @@ function removeProduct(event) {
   
   products.remove()
 
+  calculateAll()
+
 }
 
 
